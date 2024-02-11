@@ -19,4 +19,20 @@ Role & Deployment
 
 <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/Capture.PNG' height='100'>  <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/deploy.jpg' height='100'> <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/mainmenu.png' height='100'> <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/login.png' height='100'> 
 
-<a href="https://www.youtube.com/watch?v=ZHwjlYJCD84&ab_channel=ARD2000" target="_blank" width="240" height="180" border ="10" /> </a>
+Video demo
+
+[<img src="https://img.youtube.com/vi/ZHwjlYJCD84/hqdefault.jpg"
+/>](https://www.youtube.com/embed/ZHwjlYJCD84)
+
+**PUP Events Tabulation System**
+<img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/loe.png'>
+
+**Role: Quality Assurance (QA)**
+
+Sample test cases (Bug and Feature testing)
+
+
+<img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/featuretest.PNG' height='350'>  <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/bugtest.PNG' height='150'> 
+
+
+
