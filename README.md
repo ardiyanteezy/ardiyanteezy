@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arjohn Gomez!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/ardiyanteezy/ardiyanteezy/blob/main/Arjohn%20Gomez.png))
 
 I am an aspiring Developer who is currently a 4th year BSIT Student for Polytechnic University of the Philippines
 
