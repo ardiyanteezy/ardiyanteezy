@@ -19,7 +19,8 @@ Role & Deployment
 
 <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/Capture.PNG' height='100'>  <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/deploy.jpg' height='100'> <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/mainmenu.png' height='100'> <img src='https://github.com/ardiyanteezy/ardiyanteezy/blob/main/login.png' height='100'> 
 
-Video demo: 
+Video demo:
+
 [<img src="https://img.youtube.com/vi/ZHwjlYJCD84/hqdefault.jpg"
 />](https://www.youtube.com/embed/ZHwjlYJCD84)
 
